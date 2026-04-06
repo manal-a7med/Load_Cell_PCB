@@ -11,9 +11,6 @@ Domain	Embedded Systems / PCB Design
 Status	Internship Technical Submission
 Date	31 March 2026
 
-CONFIDENTIAL — FOR INTERNAL USE ONLY
- 
- 
 Task 1 — Load Cell Selection and Key Specifications
 
 The load cell is the primary transducer in this food dispensing system. It converts the mechanical force (weight of dispensed food) into an electrical signal. Choosing the right load cell is critical for accuracy, durability, and noise immunity in an industrial or semi-industrial environment.
