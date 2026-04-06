@@ -2,8 +2,8 @@
 HX711 Load Cell PCB Design using KiCAD 10.0
 
 
-ELECTRONIC ENGINEERING
-INTERNSHIP ASSIGNMENT REPORT
+Manal Ahmed Matheen
+ELECTRONICS ASSIGNMENT REPORT
 Automated Food Dispensing System — Load Cell Measurement Subsystem
 
 Task	Design Problem Statement
